@@ -1,0 +1,7 @@
+numpy
+pandas
+matplotlib
+seaborn>=0.11
+scikit-learn
+tensorflow>=2.12
+jupyter
